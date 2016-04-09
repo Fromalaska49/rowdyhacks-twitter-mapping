@@ -1,0 +1,14 @@
+{
+  "name": "twitter-streaming-node",
+  "version": "0.0.1",
+  "author": "stewartatsafe",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "twitter": "*",
+    "socket.io": "*"
+  }
+}
