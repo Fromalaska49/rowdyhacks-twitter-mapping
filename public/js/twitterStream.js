@@ -5,7 +5,7 @@ function initialize() {
   var myOptions = {
     zoom: 2,
     center: myLatlng,
-    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    mapTypeId: google.maps.MapTypeId.SATELLITE,
     mapTypeControl: true,
     mapTypeControlOptions: {
       style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
